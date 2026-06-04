@@ -1,101 +1,14 @@
 {
-  "updatedAt": "2026-06-03T18:56:24.258Z",
-  "cookieCount": 10,
-  "chars": 1062,
-  "hasAspxAuth": true,
-  "hasAspSession": true,
-  "hasSigeToken": true,
+  "capturedAt": "2026-06-04T16:01:12.106Z",
   "readyForWebForms": true,
-  "names": [
-    {
-      "name": "__utma",
-      "domain": ".enfoquepapelaria.meusige.com.br",
-      "path": "/",
-      "secure": false,
-      "httpOnly": false,
-      "sameSite": "unspecified",
-      "valueLength": 57
-    },
-    {
-      "name": "__utmc",
-      "domain": ".enfoquepapelaria.meusige.com.br",
-      "path": "/",
-      "secure": false,
-      "httpOnly": false,
-      "sameSite": "unspecified",
-      "valueLength": 9
-    },
-    {
-      "name": "__utmz",
-      "domain": ".enfoquepapelaria.meusige.com.br",
-      "path": "/",
-      "secure": false,
-      "httpOnly": false,
-      "sameSite": "unspecified",
-      "valueLength": 70
-    },
-    {
-      "name": ".ASPXAUTH",
-      "domain": "enfoquepapelaria.meusige.com.br",
-      "path": "/",
-      "secure": true,
-      "httpOnly": true,
-      "sameSite": "lax",
-      "valueLength": 384
-    },
-    {
-      "name": "ASP.NET_SessionId",
-      "domain": "enfoquepapelaria.meusige.com.br",
-      "path": "/",
-      "secure": true,
-      "httpOnly": true,
-      "sameSite": "lax",
-      "valueLength": 24
-    },
-    {
-      "name": "selectedMenuItem",
-      "domain": "enfoquepapelaria.meusige.com.br",
-      "path": "/",
-      "secure": false,
-      "httpOnly": false,
-      "sameSite": "unspecified",
-      "valueLength": 84
-    },
-    {
-      "name": "sigeusertoken",
-      "domain": "enfoquepapelaria.meusige.com.br",
-      "path": "/sistema",
-      "secure": false,
-      "httpOnly": false,
-      "sameSite": "unspecified",
-      "valueLength": 32
-    },
-    {
-      "name": "sigeusertoken",
-      "domain": "enfoquepapelaria.meusige.com.br",
-      "path": "/sistema/NotasEntrada",
-      "secure": false,
-      "httpOnly": false,
-      "sameSite": "unspecified",
-      "valueLength": 32
-    },
-    {
-      "name": "sigeverificacaoutilizacao",
-      "domain": "enfoquepapelaria.meusige.com.br",
-      "path": "/sistema",
-      "secure": false,
-      "httpOnly": false,
-      "sameSite": "unspecified",
-      "valueLength": 99
-    },
-    {
-      "name": "sigeverificacaoutilizacao",
-      "domain": "enfoquepapelaria.meusige.com.br",
-      "path": "/sistema/NotasEntrada",
-      "secure": false,
-      "httpOnly": false,
-      "sameSite": "unspecified",
-      "valueLength": 99
-    }
-  ]
+  "readyForAjax": false,
+  "hasAspSession": true,
+  "hasAspxAuth": true,
+  "hasSigeToken": false,
+  "cookieCount": 2,
+  "cookieNames": [
+    ".ASPXAUTH",
+    "ASP.NET_SessionId"
+  ],
+  "chars": 438
 }
