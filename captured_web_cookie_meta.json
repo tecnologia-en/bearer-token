@@ -1,4 +1,28 @@
 {
-  "ready": false,
-  "reason": "pending first valid web ajax cookie"
+  "capturedAt": "2026-06-04T16:01:16.827Z",
+  "readyForWebForms": true,
+  "readyForAjax": false,
+  "hasAspSession": true,
+  "hasAspxAuth": true,
+  "hasSigeToken": false,
+  "cookieCount": 2,
+  "cookieNames": [
+    ".ASPXAUTH",
+    "ASP.NET_SessionId"
+  ],
+  "chars": 438,
+  "kind": "web-ajax-special",
+  "readyForVendasAjaxGetData": true,
+  "validation": {
+    "ok": true,
+    "testedId": "6a1d708826b31f1480c4325d",
+    "httpStatus": 200,
+    "vendaCodigo": 4686852,
+    "vendedor": "MEGADESTEC - VENDEDOR",
+    "produtos": 12,
+    "bytes": 62850,
+    "validatedAt": "2026-06-04T16:01:16.798Z",
+    "validator": "content-script-same-origin-fetch"
+  },
+  "usage": "Usar este cookie para endpoints /sistema/... como Vendas/Ajax/GetData. Nao substituir quando a validacao falhar."
 }
