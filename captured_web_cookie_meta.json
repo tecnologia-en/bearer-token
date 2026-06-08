@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-06-08T15:18:13.363Z",
+  "capturedAt": "2026-06-08T14:42:32.238Z",
   "readyForWebForms": true,
   "readyForAjax": false,
   "hasAspSession": true,
@@ -20,8 +20,8 @@
     "vendaCodigo": 4686852,
     "vendedor": "MEGADESTEC - VENDEDOR",
     "produtos": 12,
-    "bytes": 62848,
-    "validatedAt": "2026-06-08T15:18:13.353Z",
+    "bytes": 62849,
+    "validatedAt": "2026-06-08T14:42:32.222Z",
     "validator": "content-script-same-origin-fetch"
   },
   "usage": "Usar este cookie para endpoints /sistema/... como Vendas/Ajax/GetData. Nao substituir quando a validacao falhar."
