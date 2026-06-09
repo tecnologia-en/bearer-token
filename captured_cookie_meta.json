@@ -1,13 +1,14 @@
 {
-  "capturedAt": "2026-06-08T20:35:58.433Z",
-  "readyForWebForms": false,
-  "readyForAjax": false,
+  "capturedAt": "2026-06-09T14:22:51.255Z",
+  "readyForWebForms": true,
+  "readyForAjax": true,
   "hasAspSession": true,
-  "hasAspxAuth": false,
-  "hasSigeToken": false,
-  "cookieCount": 1,
+  "hasAspxAuth": true,
+  "hasSigeToken": true,
+  "cookieCount": 2,
   "cookieNames": [
+    ".ASPXAUTH",
     "ASP.NET_SessionId"
   ],
-  "chars": 42
+  "chars": 486
 }
